@@ -2,4 +2,4 @@ Repo for React Contact List project.
 
 Made with:
 - NodeJS and React (Create React App)
-- HTML, CSS, ReactBootstrap
+- HTML, CSS, React-Bootstrap
